@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace Terra\Valhalla;
 
 use Illuminate\Foundation\Auth\User as Authenticatable;
 

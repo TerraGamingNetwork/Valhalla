@@ -151,10 +151,10 @@ return [
         /*
          * Application Service Providers...
          */
-        App\Providers\AppServiceProvider::class,
-        App\Providers\AuthServiceProvider::class,
-        App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
+        Terra\Valhalla\Providers\AppServiceProvider::class,
+        Terra\Valhalla\Providers\AuthServiceProvider::class,
+        Terra\Valhalla\Providers\EventServiceProvider::class,
+        Terra\Valhalla\Providers\RouteServiceProvider::class,
 
     ],
 

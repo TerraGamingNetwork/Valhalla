@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace Terra\Valhalla\Events;
 
 abstract class Event
 {

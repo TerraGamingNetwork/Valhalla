@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace Terra\Valhalla\Http\Controllers\Auth;
 
-use App\User;
+use Terra\Valhalla\User;
 use Validator;
-use App\Http\Controllers\Controller;
+use Terra\Valhalla\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ThrottlesLogins;
 use Illuminate\Foundation\Auth\AuthenticatesAndRegistersUsers;
 

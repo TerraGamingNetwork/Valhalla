@@ -34,7 +34,7 @@
             "database"
         ],
         "psr-4": {
-            "Valhalla\\": "app/"
+            "Terra\\Valhalla\\": "app/"
         }
     },
     "autoload-dev": {
